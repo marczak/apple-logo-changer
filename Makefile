@@ -6,8 +6,8 @@ TITLE=apple-logo-changer
 
 PAYLOAD=pack-efilogo-apple.png \
 				pack-efilogo-apple@2x.png \
-				pack-efilogo-appleLinen.png \
-				pack-efilogo-appleLinen@2x.png
+				pack-efilogo-apple_s1.png \
+				pack-efilogo-apple_s1@2x.png
 
 DESTDIR=/System/Library/PrivateFrameworks/LoginUIKit.framework/Versions/A/Frameworks/LoginUICore.framework/Versions/A/Resources
 
